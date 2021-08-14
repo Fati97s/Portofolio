@@ -55,7 +55,8 @@ hr {
   margin-top: 150px;
 }
 .contact-me{
-  margin-top: 90px;
+  margin: 90px auto auto auto;
+  width:50%;
   line-height: 2;
 }
 
