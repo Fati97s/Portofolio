@@ -32,7 +32,7 @@ h3{
   padding-top: 100px;
 }
 .profile{
-  margin-bottom: 150px;
+  margin: auto auto 150px auto;
   line-height: 2;
 
 }
