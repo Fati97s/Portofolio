@@ -79,6 +79,8 @@ hr {
   color: #EAF6F6;
   padding: 20px 0;
   font-size: 0.76rem;
+  width:50%;
+  margin:auto;
 }
 
 .top-cloud{
